@@ -6,4 +6,4 @@ Here I have connected my circuit to my common WiFi. The Arduino(NodeMCU) sends a
 address which we can type on the web server to view the desired output. Thus a wifi shield is 
 necessary in my project.
 
-To check the working do refer this video link: 
+To check the working do refer this video link:  https://www.youtube.com/watch?v=X8p_tgRcmGw
